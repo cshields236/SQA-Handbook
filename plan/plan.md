@@ -1,6 +1,6 @@
 # Company handbook on Software Quality 
 
-## Group Conor Shields, Estera Georgiana Corbu, Linda Cudi, Ruba Almashhuri
+## Group Conor Shields, Estera Georgiana Corbu, Linda Veloso, Ruba Almashhuri
 
 ### Topics 
 1. Task Estimation
