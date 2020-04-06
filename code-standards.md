@@ -60,9 +60,11 @@ Proper indentation is very important to increase the readability of the code. Fo
 - Braces should follow the _"Egyptian brackets”_ style: no line break before the opening brace, line break after the opening brace and before and after the closing one. (Example shown below)
 
     _Indentation  good practice_
+
     ![Getting Started](./3.png)
 
     _Indentation  bad practice_
+
     ![Getting Started](./4.png)
 
 ## Resources
