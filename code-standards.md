@@ -57,7 +57,7 @@ Proper indentation is very important to increase the readability of the code. Fo
 
 - Proper indentation should be there at the beginning and at the end of each block in the program.
 
-- Braces should follow the _"Egyptian brackets”_ style: no line break before the opening brace, line break after the opening brace and before and after the closing one. (Example shown below)
+- Braces should follow the _"Egyptian brackets"_ style: no line break before the opening brace, line break after the opening brace and before and after the closing one. (Example shown below)
 
     _Indentation  good practice_
 
@@ -67,9 +67,40 @@ Proper indentation is very important to increase the readability of the code. Fo
 
     ![Getting Started](./4.png)
 
+**4.** **Error return values and exception handling conventions**
+
+- All functions that encountering an error condition should return either a 0 or 1 for simplifying the debugging.
+- Exceptions that are caught should not be  ignored.
+- A programmer should not catch broad exceptions like   Exception or Runtime Exception
+
+    _Exception handling bad practice_
+
+    ![Getting Started](./5.png)
+
+    _Exception handling good practice_
+
+    ![Getting Started](./6.png)
+
+**5.** **Code should be well documented and block comment style should be used**
+  
+- Programmers should leave comments explaining their code's purpose. Comments regarding statements make them easier to understand.  
+- Block comments should be indented at the same level as the surrounding code. They may be in /* ... */ style or // ... style. For multi-line /* ... */ comments, subsequent lines must start with *aligned with the* on the previous line.
+- At the same time a developer should avoid leaving comments that are too long or unnecessary.
+  
+    _Well documented code_
+
+    ![Getting Started](./7.png)
+
 ## Resources
 
 [https://google.github.io/styleguide/javaguide.html](https://google.github.io/styleguide/javaguide.html)
 
 [https://www.geeksforgeeks.org/coding-standards-and-guidelines/](https://www.geeksforgeeks.org/coding-standards-and-guidelines/)
 
+[https://levelup.gitconnected.com/write-better-code-with-coding-standards-546faf3fd4d1](https://levelup.gitconnected.com/write-better-code-with-coding-standards-546faf3fd4d1)
+
+[https://codeahoy.com/2016/05/22/effective-coding-standards/](https://codeahoy.com/2016/05/22/effective-coding-standards/)
+
+[https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/](https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/)
+
+[https://www.castsoftware.com/glossary/coding-in-software-engineering-best-practices-good-standards](https://www.castsoftware.com/glossary/coding-in-software-engineering-best-practices-good-standards)
