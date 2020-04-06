@@ -6,7 +6,7 @@ Task Estimation - Scrum Guidelines
 
 Scrum is a lightweight framework, and implementation of the agile methodology that is used to aid an organization in delivering working software more frequently and it is a way to address complex issues while producing high-quality code. This guide will investigate Task Estimation in Scrum.
 
-![](file:///C:/Users/ccuddi/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+![](1.png)
 
 * Figure 1, Scrum*
 
@@ -34,7 +34,7 @@ The main goal of doing an estimation is to mark User Stories for each Sprint by 
 
 - **Story Points: **Is the amount of effort that a backlog item would need compared to other backlog items.
 
-- **User story:  **This is high-level information of desired features that the end-user would use in the final product, a developer takes into consideration to produce an estimate of effort. ![](file:///C:/Users/ccuddi/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+- **User story:  **This is high-level information of desired features that the end-user would use in the final product, a developer takes into consideration to produce an estimate of effort. ![](2.png)
 
 *        Figure 2, creation of a User story*
 
@@ -80,7 +80,7 @@ Another technique that could be used during a Scrum Estimation meeting is T-Shir
 
 3. Each team member is asked to evaluate whether a user story is any of the sizes below.
 
-![](file:///C:/Users/ccuddi/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+![](3.png)
 
 *Figure 3, T-Shirt Sizing Technique*
 
