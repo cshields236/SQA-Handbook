@@ -11,7 +11,7 @@ Another technique that could be used during a Scrum Estimation meeting is T-Shir
 
 3. Each team member is asked to evaluate whether a user story is any of the sizes below.
 
-![](3.png)
+![](Images/3.png)
 
 *Figure 3, T-Shirt Sizing Technique*
 
@@ -32,12 +32,12 @@ Uses the mix of an Experts opinion, analogy and disaggregation into a reliable e
 
 
 
-![](6.jpg)
+![](Images/6.jpg)
 The Bucket System 
 ===============
 The Bucket System works mainly in the same way as the planning poker system where the team writes the user story to be estimated and places them in a specific "bucket" in order to estimate. 
 
-![](4.png)
+![](Images/4.png)
 
 
 ## Links
