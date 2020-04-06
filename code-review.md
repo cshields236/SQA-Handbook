@@ -26,9 +26,9 @@ Code review is an essential process that every software company must follow
 
 ## The code review process
 
-    _Code review process_
+### _Code review process_
 
-    ![Getting Started](./reviewProcess.png)
+![Getting Started](./reviewprocess.png)
 
 ## Best practices for reviewing code
 
@@ -63,4 +63,3 @@ E.g. Instead of saying “X component should be stateless”, stick to the facts
 - Putting suggestions as question can lead to conversations between reviewer and code owner improving teamwork and encouraging the learning environment.
 
 - Phrasing is important here as well, instead of questioning the developer and imposing them a solution like this “Why didn’t you do X?” the reviewer should say, “What do you think about doing X here?  It could do A better”. The second formulation minimize the chances for the code owner to feel inferior and it opens a dialogue.
-
