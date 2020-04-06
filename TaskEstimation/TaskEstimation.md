@@ -10,7 +10,7 @@ The main goal of doing an estimation is to mark User Stories for each Sprint by 
 
 ## __This document covers:__
 1. **[SCRUM Estimation Techniques](EstimationTechniques.md)**
-2. **[Estimation Techniques Best Practices](BestPractices)**
+2. **[Estimation Techniques Best Practices](BestPractices.md)**
 3. **[Advantages and Disadvantages of Task Estimation](ProsNCons.md)**
 
 
