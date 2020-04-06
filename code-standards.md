@@ -22,10 +22,12 @@ Why to use coding standards?
 - For example, variables that are accessed only from a method must be local variables of this method not the whole class. (Shown in the below two figures)
 
     _Global variable bad practice_
-        ![Getting Started](./1.png)
+
+    ![Getting Started](./1.png)
 
     _Global variable good practice_
-        ![Getting Started](./2.png)
+
+    ![Getting Started](./2.png)
 
 **2.** **Naming conventions for local variables, global variables, constants**
 
@@ -58,10 +60,10 @@ Proper indentation is very important to increase the readability of the code. Fo
 - Braces should follow the _"Egyptian brackets”_ style: no line break before the opening brace, line break after the opening brace and before and after the closing one. (Example shown below)
 
     _Indentation  good practice_
-        ![Getting Started](./3.png)
+    ![Getting Started](./3.png)
 
     _Indentation  bad practice_
-        ![Getting Started](./4.png)
+    ![Getting Started](./4.png)
 
 ## Resources
 
