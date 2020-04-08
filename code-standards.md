@@ -23,11 +23,11 @@ Why to use coding standards?
 
     _Global variable bad practice_
 
-    ![Getting Started](./1.png)
+    ![Getting Started](images/1.png)
 
     _Global variable good practice_
 
-    ![Getting Started](./2.png)
+    ![Getting Started](images/2.png)
 
 **2.** **Naming conventions for local variables, global variables, constants**
 
@@ -61,11 +61,11 @@ Proper indentation is very important to increase the readability of the code. Fo
 
     _Indentation  good practice_
 
-    ![Getting Started](./3.png)
+    ![Getting Started](images/3.png)
 
     _Indentation  bad practice_
 
-    ![Getting Started](./4.png)
+    ![Getting Started](images/4.png)
 
 **4.** **Error return values and exception handling conventions**
 
@@ -75,11 +75,11 @@ Proper indentation is very important to increase the readability of the code. Fo
 
     _Exception handling bad practice_
 
-    ![Getting Started](./5.png)
+    ![Getting Started](images/5.png)
 
     _Exception handling good practice_
 
-    ![Getting Started](./6.png)
+    ![Getting Started](images/6.png)
 
 **5.** **Code should be well documented and block comment style should be used**
   
@@ -89,7 +89,7 @@ Proper indentation is very important to increase the readability of the code. Fo
   
     _Well documented code_
 
-    ![Getting Started](./7.png)
+    ![Getting Started](images/7.png)
 
 ## Resources
 
